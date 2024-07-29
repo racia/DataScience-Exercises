@@ -10,7 +10,7 @@ This repository contains completed Machine Learning code exercises in Python fro
 1. Open Jupyter Notebook: `jupyter notebook` and select the created kernel _env_.
 3. You can now run the exercises in the notebooks.
 
-#### ❕Notes
+#### ❕Note
 Python version (3.11.2) is newer than the configured version in the book.
 
 <a id="references"></a>  
