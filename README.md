@@ -12,5 +12,4 @@ book by Danish Haroon (2017).
 3. You can now run the exercises in the notebooks
 
 #### ❕Note
-Python version (3.11.2) is newer than the configured version in the book, which might actually come 
-in handy :)
+Python version (3.11.2) is newer than the configured version in the book.
