@@ -1,6 +1,5 @@
 # Completed Machine Learning Code Exercises in Python
-This repository contains completed Machine Learning code exercises in Python from the "Python Machine Learning Case Studies" 
-book by Danish Haroon (2017).  
+This repository contains completed Machine Learning code exercises in Python from the published [book](#ref) by Danish Haroon (2017).  
 
 #### 🧰 Prerequisites
 1. Create and activate a Python virtual environment: `python3 -m venv env`.
@@ -13,3 +12,6 @@ book by Danish Haroon (2017).
 
 #### ❕Note
 Python version (3.11.2) is newer than the configured version in the book.
+
+#### [References](#ref)
+1. Danish Haroon. *Python Machine Learning Case Studies - Five Case Studies for the Data Scientist*. Springer Science+Business Media New York, 2017. ISBN 978-1-4842-2822-7
